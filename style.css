@@ -1,0 +1,54 @@
+/* Link Font */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+
+
+/* Main CSS */
+.navbar {
+    margin-bottom: 30px;
+}
+
+.navbar-toggler {
+    margin: 0 auto;
+}
+
+.kotak {
+    width: 700px;
+    height: 80px;
+    background-color: rgb(131, 131, 131);
+    margin: 40px auto 0;
+    border-radius: 5px;
+}
+
+.kotak p {
+    font-size: 25px;
+    color: white;
+    line-height: 80px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+
+.kotak p a {
+    text-decoration: none;
+    list-style: none;
+    color: white;
+}
+
+.kotak p a:hover {
+    text-decoration: underline white;
+}
+
+.pilih h3 {
+    padding-top: 30px;
+    font-size: 23px;
+}
+
+
+/* Animation */
+@keyframes zoom {
+    0% {
+
+    }
+    100% {
+        
+    }
+}
